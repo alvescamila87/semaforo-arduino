@@ -39,6 +39,8 @@ Link do Projeto no [Tinkercad](https://www.tinkercad.com/things/eCtkkFN9wGT-v4-s
 ![image](https://github.com/alvescamila87/semaforo-arduino/assets/116912821/9139a44c-9286-4871-b833-81b7e086bf96)
 ![image](https://github.com/alvescamila87/semaforo-arduino/assets/116912821/729e4cb2-571f-46f9-b9e9-572a84ec2877)
 
+Tutorial em funcionamento: [Arduino](https://github.com/alvescamila87/semaforo-arduino/blob/main/semaforo_arduino_video.mp4)
+
 ## Autores:
 - Camila Alves
 - [João Carlos Emídio](https://github.com/emidiojoao)
